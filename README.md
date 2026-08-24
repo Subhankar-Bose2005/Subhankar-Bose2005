@@ -1,5 +1,5 @@
 # 💫 About Me:
-Third-year Computer Science Engineering student (CGPA 9.57) with strong foundations in data structures, DBMS, and operating<br>systems. Experienced in designing secure, scalable backend systems using Spring Boot and also in Machine Learning and Deep<br>Learning. Passionate about building reliable distributed systems and high-performance software applications<br>
+Fourth-year Computer Science Engineering student with strong foundations in data structures, DBMS, and operating<br>systems. Experienced in designing secure, scalable backend systems using Spring Boot and also in Machine Learning and Deep<br>Learning. Passionate about building reliable distributed systems and high-performance software applications<br>
 
 
 ## 🌐 Socials:
